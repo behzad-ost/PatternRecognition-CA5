@@ -1,0 +1,7 @@
+ovr train time 	:	7.426197052
+ovr test time	:	2.55470299721
+ovo train time	:	2.02965784073
+ovo test time	:	8.12949299812
+
+ovr ccr	:	0.8148
+ovo ccr	:	0.8504

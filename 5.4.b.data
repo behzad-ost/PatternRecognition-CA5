@@ -1,0 +1,5 @@
+==============RBF========================
+2.67245197296   :   train time without PCA
+1.8378610611    :   train time with PCA
+0.9476			:	ccr without PCA
+0.9436			:	ccr with PCA
